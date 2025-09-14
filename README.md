@@ -14,8 +14,7 @@ This project showcases pets available for adoption using clean card layouts, ima
 ---
 
 ## 🚀 Demo  
-![Pet Adoption Screenshot](screenshot.png)  
-*(Replace with your actual screenshot if available)*  
+![Pet Adoption Screenshot](screenshot.png)   
 
 ---
 
